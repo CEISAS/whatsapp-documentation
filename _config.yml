@@ -4,6 +4,7 @@ theme: just-the-docs
 
 url: https://ceisas.github.io/whatsapp-documentation
 
+callouts_level: quiet
 callouts:
   note:
     title: Nota
