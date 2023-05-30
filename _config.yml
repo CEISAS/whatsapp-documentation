@@ -3,3 +3,8 @@ description: WhatsApp API Documentation
 theme: just-the-docs
 
 url: https://ceisas.github.io/whatsapp-documentation
+
+callouts:
+  note:
+    title: Nota
+    color: yellow
