@@ -3,7 +3,7 @@ title: Inicio
 layout: home
 published: true
 ---
-## INICIO
+## Inicio
 Bienvenido a la documentación del servicio de automatización de WhatsApp. Nuestro objetivo es simplificar el proceso de integración de WhatsApp Web en sistemas existentes a través de la autenticación vía QR. Ofrecemos una API que permite realizar acciones en el entorno de WhatsApp Web, lo que facilita la entrada y salida de información. En resumen, nuestro servicio automatiza la comunicación en WhatsApp para que puedas integrarla fácilmente en tus sistemas.
 
 Nuestro API de WhatsApp es altamente versátil y puede ser utilizado para una amplia variedad de servicios, tales como:
