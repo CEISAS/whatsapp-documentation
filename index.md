@@ -4,7 +4,7 @@ layout: home
 published: true
 ---
 ## Inicio
-Bienvenido a la documentación del servicio de automatización de WhatsApp. Nuestro objetivo es simplificar el proceso de integración de WhatsApp Web en sistemas existentes a través de la autenticación vía QR. Ofrecemos una API que permite realizar acciones en el entorno de WhatsApp Web, lo que facilita la entrada y salida de información. En resumen, nuestro servicio automatiza la comunicación en WhatsApp para que puedas integrarla fácilmente en tus sistemas.
+Bienvenido al servicio de automatización de WhatsApp. Nuestro objetivo es simplificar el proceso de integración de WhatsApp en sistemas existentes a través de nuestra API. Ofrecemos una solución que permite realizar acciones en el entorno de WhatsApp, lo que facilita la entrada y salida de información. En resumen, nuestro servicio automatiza la comunicación en WhatsApp para que puedas integrarla fácilmente en tus sistemas.
 
 Nuestro API de WhatsApp es altamente versátil y puede ser utilizado para una amplia variedad de servicios, tales como:
 - **Chatbots**: crea conversaciones automáticas con tus usuarios para ofrecer respuestas rápidas y personalizadas.
@@ -15,5 +15,8 @@ Nuestro API de WhatsApp es altamente versátil y puede ser utilizado para una am
 - **Verificación y autenticación**: verifica la identidad de tus usuarios o autentica sus cuentas a través de WhatsApp.
 - **Comunicación con el cliente**: mantén una comunicación fluida con tus usuarios para mejorar su experiencia y fidelizarlos.
 - **Automatización**: automatiza procesos y tareas repetitivas para mejorar la eficiencia de tu empresa.
+
+{: .highlight }
+Cada servicio tiene sus propias características y permiten personalizar la comunicación con tus usuarios según tus necesidades.
 
 En definitiva, nuestro API de WhatsApp es la solución perfecta para mejorar la comunicación con tus usuarios y automatizar procesos en tu empresa.
