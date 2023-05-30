@@ -17,6 +17,6 @@ Nuestro API de WhatsApp es altamente versátil y puede ser utilizado para una am
 - **Automatización**: automatiza procesos y tareas repetitivas para mejorar la eficiencia de tu empresa.
 
 > {: .highlight }
-Cada servicio tiene sus propias características y permiten personalizar la comunicación con tus usuarios según tus necesidades.
+	Cada servicio tiene sus propias características y permiten personalizar la comunicación con tus usuarios según tus necesidades.
 
 En definitiva, nuestro API de WhatsApp es la solución perfecta para mejorar la comunicación con tus usuarios y automatizar procesos en tu empresa.
