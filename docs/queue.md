@@ -26,7 +26,7 @@ La cola de espera es una herramienta que utilizamos para garantizar un flujo de 
 {: .note }
 El tiempo entre mensajes puede variar dependiendo del servicio al que esté orientado, aunque este se puede modificar a gusto de la empresa.
 
-Para los mensajes que requieran una conversación con el cliente, el tiempo entre mensajes puede ser más corto para garantizar una respuesta rápida. Por otro lado, para los mensajes de marketing o notificaciones, el tiempo entre mensajes puede ser más largo.
+Para los mensajes que requieran una conversación con el cliente, el tiempo entre mensajes puede ser más corto para garantizar una respuesta rápida. Por otro lado, para los mensajes de notificaciones, el tiempo entre mensajes puede ser más largo.
 
 Es importante tener en cuenta que la cola de espera no afecta la capacidad del servicio de enviar mensajes de manera eficiente y oportuna. De hecho, la cola de espera ayuda a garantizar que los mensajes se envíen de manera ordenada.
 
@@ -40,6 +40,3 @@ Es importante tener en cuenta que el horario de la cola de mensajes es completam
 
 {: .note }
 El horario para la cola de mensajes es opcional, aunque se recomienda utilizarlo para mejorar la experiencia del cliente.
-
-{: note}
-El horario de la cola de mensajes se puede ajustar en cualquier momento según las necesidades de la empresa. Por ejemplo, si se desea enviar mensajes promocionales durante un evento nocturno.
