@@ -5,7 +5,7 @@ parent: Envio de mensajes
 nav_order: 2
 ---
 
-## Mensaje
+# Imagen
 
 Enviar imagen a uno o varios números de WhatsApp.
 

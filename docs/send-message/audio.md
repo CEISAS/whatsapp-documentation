@@ -5,9 +5,9 @@ parent: Envio de mensajes
 nav_order: 3
 ---
 
-## Mensaje
+# Audio
 
-Enviar imagen a uno o varios números de WhatsApp.
+Enviar un audio a uno o varios números de WhatsApp.
 
 ### Petición
 

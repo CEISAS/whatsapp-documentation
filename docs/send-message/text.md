@@ -5,7 +5,7 @@ parent: Envio de mensajes
 nav_order: 1
 ---
 
-## Mensaje de texto
+# Mensaje de texto
 
 Enviar un mensaje de texto a uno o varios números de WhatsApp.
 

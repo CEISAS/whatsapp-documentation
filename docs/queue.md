@@ -7,9 +7,7 @@ published: true
 
 # Cola de espera
 
-{: .fs-9 }
 Utiliza el sistema de cola de mensajes para enviar mensajes de manera eficiente y oportuna.
-
 {: .fs-6 .fw-300 }
 
 ---
