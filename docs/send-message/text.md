@@ -8,9 +8,9 @@ nav_order: 7
 Enviar mensaje de texto a uno o varios números de WhatsApp.
 
 ### Petición
-| URL        				 | METHOD            |
-|:---------------------------|:------------------|
-| /api/v1/sendTextMessage    | POST  			 |
+| URL        				        | METHOD   |
+|:--------------------------|:---------|
+| /api/v1/sendTextMessage   | POST     |
 
 ### Parametros
 | Parametro  | Tipo		| Descripción 			     | Ejemplo   		                          |
