@@ -2,17 +2,19 @@
 layout: default
 title: Mensaje de texto
 parent: Envio de mensajes
-nav_order: 7
+nav_order: 1
 ---
 ## Mensaje de texto
 Enviar mensaje de texto a uno o varios números de WhatsApp.
 
 ### Petición
+
 | URL        				        | METHOD   |
 |:--------------------------|:---------|
 | /api/v1/sendTextMessage   | POST     |
 
 ### Parametros
+
 | Parametro  | Tipo		| Descripción 			     | Ejemplo   		                          |
 |:-----------|:-------|:-----------------------|:---------------------------------------|
 | token 		 | STRING	| Token de autenticación | `123e4567-e89b-12d3-a456-426614174000` |
