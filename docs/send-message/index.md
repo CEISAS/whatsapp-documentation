@@ -3,7 +3,6 @@ layout: default
 title: Envio de mensajes
 nav_order: 3
 has_children: true
-permalink: /send-message
 ---
 ## Envio de mensajes
 
