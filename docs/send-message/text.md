@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Mensaje de texto
+title: Texto
 parent: Envio de mensajes
 nav_order: 1
 ---
 ## Mensaje de texto
-Enviar mensaje de texto a uno o varios números de WhatsApp.
+Enviar un mensaje de texto a uno o varios números de WhatsApp.
 
 ### Petición
 
