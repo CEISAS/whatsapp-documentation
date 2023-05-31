@@ -1,6 +1,7 @@
 ---
 title: Limitaciones de uso
 layout: default
+nav_order: 2
 published: true
 ---
 ## Limitaciones de uso
