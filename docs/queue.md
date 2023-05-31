@@ -6,9 +6,16 @@ published: true
 ---
 
 # Cola de espera
+{: .no_toc }
 
-Utiliza el sistema de cola de mensajes para enviar mensajes de manera eficiente y oportuna.
+Mejora la experiencia del cliente con una comunicación ordenada.
 {: .fs-6 .fw-300 }
+
+## Tabla de contenido
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
@@ -21,7 +28,7 @@ El tiempo entre mensajes puede variar dependiendo del servicio al que esté orie
 
 Para los mensajes que requieran una conversación con el cliente, el tiempo entre mensajes puede ser más corto para garantizar una respuesta rápida. Por otro lado, para los mensajes de marketing o notificaciones, el tiempo entre mensajes puede ser más largo.
 
-Es importante tener en cuenta que la cola de espera no afecta la capacidad del servicio de enviar mensajes de manera eficiente y oportuna. De hecho, la cola de espera ayuda a garantizar que los mensajes se envíen de manera ordenada y que todos los clientes reciban una respuesta de manera oportuna.
+Es importante tener en cuenta que la cola de espera no afecta la capacidad del servicio de enviar mensajes de manera eficiente y oportuna. De hecho, la cola de espera ayuda a garantizar que los mensajes se envíen de manera ordenada.
 
 ## Horario de la cola
 

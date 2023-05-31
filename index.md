@@ -5,7 +5,7 @@ nav_order: 1
 published: true
 ---
 
-# Iniciov
+# Inicio
 
 Comunica con tus clientes de manera eficiente y personalizada.
 {: .fs-6 .fw-300 }
