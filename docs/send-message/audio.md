@@ -8,6 +8,9 @@ nav_order: 3
 # Audio
 
 Enviar un audio a uno o varios números de WhatsApp.
+{: .fs-6 .fw-300 }
+
+---
 
 ### Petición
 

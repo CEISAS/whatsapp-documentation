@@ -8,6 +8,9 @@ nav_order: 2
 # Imagen
 
 Enviar imagen a uno o varios números de WhatsApp.
+{: .fs-6 .fw-300 }
+
+---
 
 ### Petición
 

@@ -8,6 +8,9 @@ nav_order: 1
 # Mensaje de texto
 
 Enviar un mensaje de texto a uno o varios números de WhatsApp.
+{: .fs-6 .fw-300 }
+
+---
 
 ### Petición
 

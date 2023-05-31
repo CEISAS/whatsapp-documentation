@@ -6,22 +6,18 @@ published: true
 ---
 
 # Limitaciones de uso
-
 {: .no_toc }
 
 Conoce las limitaciones de uso de nuestro servicio.
 {: .fs-6 .fw-300 }
 
 ## Tabla de contenido
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
-
-Es importante tener en cuenta que nuestro servicio de API de WhatsApp tiene ciertas limitaciones que debes conocer.
 
 {: .alert_yellow }
 Debido a las normativas de WhatsApp hemos tenido que aplicar distintas soluciones para seguir brindando un servicio estable.
