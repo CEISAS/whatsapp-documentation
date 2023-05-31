@@ -6,9 +6,11 @@ url: https://ceisas.github.io/whatsapp-documentation
 
 callouts_level: quiet
 callouts:
-  note:
-    title: Nota
-    color: blue
-  warning:
-    title: Advertencia
-    color: yellow
+    note:
+        title: Nota
+        color: blue
+    warning:
+        title: Advertencia
+        color: yellow
+    alert_yellow:
+        color: yellow
