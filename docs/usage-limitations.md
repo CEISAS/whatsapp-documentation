@@ -4,6 +4,7 @@ layout: default
 nav_order: 2
 published: true
 ---
+
 ## Limitaciones de uso
 
 Es importante tener en cuenta que nuestro servicio de API de WhatsApp tiene ciertas limitaciones que debes conocer. Debido a las normativas de WhatsApp hemos tenido que aplicar distintas soluciones para seguir brindando un servicio estable.
