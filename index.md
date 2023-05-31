@@ -5,11 +5,16 @@ nav_order: 1
 published: true
 ---
 
-## Inicio
+# Iniciov
 
-Bienvenido al servicio de automatización de WhatsApp. Nuestro objetivo es simplificar el proceso de integración de WhatsApp en sistemas existentes a través de nuestra API. Ofrecemos una solución que permite realizar acciones en el entorno de WhatsApp, lo que facilita la entrada y salida de información. En resumen, nuestro servicio automatiza la comunicación en WhatsApp para que puedas integrarla fácilmente en tus sistemas.
+Comunica con tus clientes de manera eficiente y personalizada.
+{: .fs-6 .fw-300 }
 
-Nuestro API de WhatsApp es altamente versátil y puede ser utilizado para una amplia variedad de servicios, tales como:
+---
+
+Bienvenido al servicio de automatización de WhatsApp. Nuestro objetivo es simplificar el proceso de integración de WhatsApp en sistemas existentes a traés de nuestra API. Ofrecemos una solución que permite realizar acciones en el entorno de WhatsApp, lo que facilita la entrada y salida de información.
+
+Nuestro API es altamente versátil y puede ser utilizado para una amplia variedad de servicios, tales como:
 
 -   **Chatbots**: crea conversaciones automáticas con tus usuarios para ofrecer respuestas rápidas y personalizadas.
 -   **Atención al cliente**: ofrece soporte a tus clientes a través de WhatsApp para solucionar problemas y responder preguntas.
@@ -23,4 +28,4 @@ Nuestro API de WhatsApp es altamente versátil y puede ser utilizado para una am
 {: .note }
 Cada servicio tiene sus propias características y permiten personalizar la comunicación con tus usuarios según tus necesidades.
 
-En definitiva, nuestro API de WhatsApp es la solución perfecta para mejorar la comunicación con tus usuarios y automatizar procesos en tu empresa.
+En definitiva, nuestro servicio es la solución perfecta para mejorar la comunicación con tus usuarios y automatizar procesos en tu empresa.

@@ -41,6 +41,4 @@ Los archivos adjuntos tienen un límite de tamaño de 10 MB y pueden ser de cual
 
 Debido a las normativas de WhatsApp, no es posible mantener un flujo directo de envío de mensajes. Para garantizar un flujo de salida ordenado y constante, utilizamos una _[cola de espera]_. El intervalo entre mensajes puede variar dependiendo del servicio al que esté orientado.
 
----
-
 [cola de espera]: {% link docs/queue.md %}
